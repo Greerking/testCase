@@ -1,0 +1,1 @@
+В функциях ExecuteQueryWithoutReturnData и ExecuteQueryWithReturnData небходимо поменять сервер на свой
